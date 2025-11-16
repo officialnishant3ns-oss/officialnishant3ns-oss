@@ -14,9 +14,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=officialnishant3ns-oss&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-- 🔭 I’m currently working on [Task Manager](https://github.com/officialnishant3ns-oss/Task_Manager_)
-
-- 🌱 I’m currently learning **Data Structure And Algorithm**
+<hr>
 
 - 📫 How to reach me **official.nishant.3ns@gmail.com**
 
