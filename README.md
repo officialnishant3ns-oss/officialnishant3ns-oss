@@ -1,17 +1,15 @@
-<!-- Header GIF -->
-![MasterHead](GitHeade.gif)
+
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
+
 
 <!-- Typing SVG Intro -->
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=25&duration=4000&color=EF873E&center=true&vCenter=true&width=435&lines=Hey..+I'm+Nishant+Singh;A+passionate+Backend+developer;Welcome+to+my+Github!;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=32&duration=4000&color=EF873E&center=true&vCenter=true&width=435&lines=Hey..+I'm+Nishant+Singh;A+passionate+Backend+developer;Welcome+to+my+Github!;" alt="Typing SVG" />
   </h1>
 </div>
 
----
 
-
-<hr>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishant-singh-7523a1378) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ns967035@gmail.com) 
 
