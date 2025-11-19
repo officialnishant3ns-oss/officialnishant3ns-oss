@@ -5,7 +5,7 @@
 <!-- Typing SVG Intro -->
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=32&duration=4000&color=EF873E&center=true&vCenter=true&width=435&lines=Hey..+I'm+Nishant+Singh;A+passionate+Backend+developer;Welcome+to+my+Github!;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=32&duration=4000&color=EF873E&center=true&vCenter=true&width=435&lines=Hey..+I'm+Nishant+Singh;I'm+a+Backend+developer;Welcome+to+my+Github!;" alt="Typing SVG" />
   </h1>
 </div>
 
