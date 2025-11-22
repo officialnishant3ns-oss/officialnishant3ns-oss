@@ -21,8 +21,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=officialnishant3ns-oss&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-<hr>
-
 - 📫 How to reach me **official.nishant.3ns@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
